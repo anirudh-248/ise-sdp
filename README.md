@@ -1,1 +1,1 @@
-SDP on UI/UX Web development
+SDP on Web development from ISE dept.
